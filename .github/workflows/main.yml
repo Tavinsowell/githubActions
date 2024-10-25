@@ -1,4 +1,5 @@
-# Name of workflow
+# Name of workflow file
+
 name: Lint workflow
 
 # Trigger workflow on all pull requests
